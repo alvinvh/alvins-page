@@ -8,7 +8,7 @@ function Projects() {
       techStack: ["Python", "Angular", "Machine Learning", "FastAPI", "CSS"],
       githubLink: "https://github.com/alvinvh/Waste_AI",
       projectLink: "",
-      image: "/wasteAI.png",
+      image: process.env.PUBLIC_URL + "/wasteAI.png",
     },
 
     {
@@ -18,7 +18,7 @@ function Projects() {
       techStack: ["Angular", "C#", "SCSS", "Typescript", "HTML"],
       githubLink: "https://github.com/alvinvh/ITCodeFair",
       projectLink: "https://alvinvh.github.io/ITCodeFair/index",
-      image: "/telemedicare.png",
+      image: process.env.PUBLIC_URL + "/telemedicare.png",
     },
     {
       name: "Bunji",
@@ -27,7 +27,7 @@ function Projects() {
       techStack: ["Unity", "C#"],
       githubLink: "https://github.com/alvinvh/Bunji-App",
       projectLink: "",
-      image: "/bunji.png",
+      image: process.env.PUBLIC_URL + "/bunji.png",
     }
   ];
 
