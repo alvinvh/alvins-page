@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/alvins-page/static/css/main.af5bc728.css",
+    "main.js": "/alvins-page/static/js/main.0964aee3.js",
+    "static/js/453.b2cd65dc.chunk.js": "/alvins-page/static/js/453.b2cd65dc.chunk.js",
+    "index.html": "/alvins-page/index.html",
+    "main.af5bc728.css.map": "/alvins-page/static/css/main.af5bc728.css.map",
+    "main.0964aee3.js.map": "/alvins-page/static/js/main.0964aee3.js.map",
+    "453.b2cd65dc.chunk.js.map": "/alvins-page/static/js/453.b2cd65dc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af5bc728.css",
+    "static/js/main.0964aee3.js"
+  ]
+}
