@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/alvins-page/static/css/main.1c454eeb.css",
+    "main.css": "/alvins-page/static/css/main.bbc8dec8.css",
     "main.js": "/alvins-page/static/js/main.58322d9a.js",
     "static/js/453.b2cd65dc.chunk.js": "/alvins-page/static/js/453.b2cd65dc.chunk.js",
     "index.html": "/alvins-page/index.html",
-    "main.1c454eeb.css.map": "/alvins-page/static/css/main.1c454eeb.css.map",
+    "main.bbc8dec8.css.map": "/alvins-page/static/css/main.bbc8dec8.css.map",
     "main.58322d9a.js.map": "/alvins-page/static/js/main.58322d9a.js.map",
     "453.b2cd65dc.chunk.js.map": "/alvins-page/static/js/453.b2cd65dc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c454eeb.css",
+    "static/css/main.bbc8dec8.css",
     "static/js/main.58322d9a.js"
   ]
 }
