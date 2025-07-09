@@ -137,7 +137,7 @@ header {
 }
 
 
-.project-card:hover {
+.project-card:hover,  .card-achievement:hover{
   border: #fff 1px solid;
 }
 
