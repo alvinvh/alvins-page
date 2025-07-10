@@ -35,8 +35,8 @@ function Profile() {
           <h4 className={`role-fade${fade ? " hide" : ""}`}>{myRoles[index]}</h4>
           <p>A passionate full-stack developer with strong expertise in Python, React, Angular, and JavaScript. Armed with a Master’s degree in Software Engineering from Charles Darwin University, I thrive on building intuitive user experiences, scalable backend solutions, and dynamic applications that bridge creativity and technical precision.</p>
         <div className="row">
-        <div className="col"><button className="profile-btn"><a href="#">View projects</a><i className="bi bi-arrow-right arrow-icon"></i></button>
-        <button className="profile-btn"><a href="#">Resume</a></button></div>
+        <div className="col"><button className="profile-btn"><a href="#project">View projects</a><i className="bi bi-arrow-right arrow-icon"></i></button>
+        <button className="profile-btn"><a href="/resume.pdf" target="_blank" rel="noopener noreferrer">Resume</a></button></div>
         </div>
         <div className="row">
             <div className="col mt-2"><a className="profile-link" href="https://github.com/alvinvh" target="_blank" rel="noopener noreferrer"><i className="bi bi-github"></i></a> <a className="profile-link" href="www.linkedin.com/in/alvin-handoko" target="_blank" rel="noopener noreferrer"><i className="bi bi-linkedin"></i></a></div>
