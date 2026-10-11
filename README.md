@@ -63,6 +63,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Deployment
 
+Run `npm run deploy` to build the site and publish the contents of `build` to the `gh-pages` branch. The published site is available at <https://alvinvh.github.io/alvins-page/>.
+
+For the first deployment, configure the repository's GitHub Pages settings to deploy from the `gh-pages` branch and the root (`/`) folder.
+
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
