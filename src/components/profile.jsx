@@ -25,7 +25,7 @@ function Profile() {
       <div className="row">
         <div className="col-md-4">
           <img
-            src="https://media.licdn.com/dms/image/v2/D5603AQFUq6t8PI1_JA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1689523666103?e=1756944000&v=beta&t=N2Dge9DDvF5IT5mQEgqYINqEWfbG6gB8W7R5w3v9qi8"
+            src="https://media.licdn.com/dms/image/v2/D5603AQFUq6t8PI1_JA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1689523666103?e=1793232000&v=beta&t=30xljivk4cm570W9LKEfTOSWSOTCKX4cih_klEpgcjs"
             alt="Profile"
             className="img-fluid rounded-circle profile-img"
           />
